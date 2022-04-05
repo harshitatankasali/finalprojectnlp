@@ -3,4 +3,4 @@ An interactive .ipynb notebook about a vaccine sentiment analysis problem. There
 # libraries
 pandas, nltk, matplotlib, numpy, gensim, wordcloud, scikit-learn
 # Improvements remaining
-I'm currently exploring custom preprocessing methods and other classification algorithms to improve the final accuracy. The notebook will be updated accordingly. 
+I'm currently exploring custom preprocessing methods and other classification algorithms to improve the final accuracy. The notebook will be updated accordingly. Furthermore, LDA topic modelling will be added. 
